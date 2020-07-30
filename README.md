@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+A web developer, learned most of my trade from internet, self experimenting and from amazing people I am working with.
+
+Besides coding, I also like to design and make cute crafty doll projects with yarn, [you can check it out here 🧶](https://www.instagram.com/pawlarius.crafts/).
+
 <!--
 **pawlarius/pawlarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
