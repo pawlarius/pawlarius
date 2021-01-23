@@ -4,7 +4,7 @@ A web developer, learned most of my trade from internet, self experimenting and 
 
 Usually I work with ReactJS and Ruby on Rails, but currently I am learning to build an optimized web blog with other technologies ✨.
 
-Besides coding, I also like to design and make cute crafty doll projects with yarn, [you can check it out here 🧶](https://www.instagram.com/pawlarius.crafts/).
+Besides coding, I also like to design and make cute crafty doll projects with yarn, [here at https://pawlarius.com 🧶](https://pawlarius.com/).
 
 <!--
 **pawlarius/pawlarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
