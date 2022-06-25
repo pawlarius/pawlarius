@@ -2,7 +2,7 @@
 
 💻 A web developer, learned most of my trade from internet, self experimenting and from amazing people I work with.
 
-🌱 Usually I work with ReactJS and Ruby on Rails, but currently I am learning to get comfy with NextJS ✨.
+🌱 I love working with ReactJS, Typescript and NextJS ✨.
 
 🧶 Besides coding, I also like to design and make cute crafty doll projects with yarn, [here at https://pawlarius.com 🧶](https://pawlarius.com/).
 
