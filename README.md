@@ -4,7 +4,9 @@
 
 🌱 I love working with ReactJS + Typescript on NextJS and Ruby on Rails ✨.
 
-🧶 Besides coding, I also like to design and make cute crafty doll projects with yarn, [here at https://pawlarius.com 🧶](https://pawlarius.com/).
+💻 Just started a web blog for tech stuff at [https://pawlarius.dev](pawlarius.dev)
+
+🧶 Besides coding, I also like to design and make crafty doll projects with yarn, sharing amigurumi tutorials at [https://pawlarius.com](https://pawlarius.com/).
 
 <!--
 **pawlarius/pawlarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
