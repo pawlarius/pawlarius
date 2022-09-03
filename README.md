@@ -4,7 +4,7 @@
 
 🌱 I love working with ReactJS + Typescript on NextJS and Ruby on Rails ✨.
 
-💻 Just started a web blog for tech stuff at [https://pawlarius.dev]([pawlarius.dev](https://pawlarius.dev))
+💻 Just started a web blog for tech stuff at [https://pawlarius.dev]([pawlarius.dev](https://pawlarius.dev)
 
 🧶 Besides coding, I also like to design and make crafty doll projects with yarn, sharing amigurumi tutorials at [https://pawlarius.com](https://pawlarius.com/).
 
